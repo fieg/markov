@@ -1,5 +1,6 @@
 {
   "name": "fieg/markov",
+  "description": "Implementation of MarkovChain algorithm in PHP",
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
