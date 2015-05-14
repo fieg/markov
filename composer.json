@@ -1,5 +1,5 @@
 {
-  "name": "fieg/library-bootstrap",
+  "name": "fieg/markov",
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
